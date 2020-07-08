@@ -1,0 +1,17 @@
+{
+  "nl_version": "2020-07-03",
+  "nl_api_key": "PlVtNhAzF3ei_KBC8Miw5jVoSLiIGy2E09cGwJAGTnYY",
+  "nl_url": "https://api.us-east.natural-language-understanding.watson.cloud.ibm.com/instances/8af9a8df-3233-4c78-9e73-0f7ea5159e5f",
+  "nl_model_id": "0c25bce2-7248-4410-b632-10559df022d7",
+  "twitter_apikey": "Wrca81mBjlZ7W8P3zFsxWMKFT",
+  "twitter_secret": "WfVgAL9nOIboQ2CE2XXzQKRuZ7XBl2W629mwg5h4DeosNnToMK",
+  "twt_token": "4152044002-YfyjEf7LOfAS5OeRydRFFUYy3ZliIf3CwU6HT02",
+  "twt_secret_token": "mhUMgOCh6OPgZd51zNVWEoCGtMagqJgvBQluHnNotbtWB",
+
+
+  "scoring_url" : "https://us-south.ml.cloud.ibm.com/v4/deployments/7c26ff08-315f-433f-86e2-54bc60c037b3/predictions",
+  "wmlToken": "eyJraWQiOiIyMDIwMDYyNDE4MzAiLCJhbGciOiJSUzI1NiJ9.eyJpYW1faWQiOiJpYW0tU2VydmljZUlkLTNjZTZjNDEyLTRjZmMtNGMzMS1iZDg0LWUxYjdmZjZmYWMyNCIsImlkIjoiaWFtLVNlcnZpY2VJZC0zY2U2YzQxMi00Y2ZjLTRjMzEtYmQ4NC1lMWI3ZmY2ZmFjMjQiLCJyZWFsbWlkIjoiaWFtIiwiaWRlbnRpZmllciI6IlNlcnZpY2VJZC0zY2U2YzQxMi00Y2ZjLTRjMzEtYmQ4NC1lMWI3ZmY2ZmFjMjQiLCJuYW1lIjoid2RwLXdyaXRlciIsInN1YiI6IlNlcnZpY2VJZC0zY2U2YzQxMi00Y2ZjLTRjMzEtYmQ4NC1lMWI3ZmY2ZmFjMjQiLCJzdWJfdHlwZSI6IlNlcnZpY2VJZCIsImFjY291bnQiOnsidmFsaWQiOnRydWUsImJzcyI6ImQ1ZDdiOThkNTVlODRjZWFiYmMxYjEzYTlkOWQ3Yjc4In0sImlhdCI6MTU5NDE2MzcxOSwiZXhwIjoxNTk0MTY3MzE5LCJpc3MiOiJodHRwczovL2lhbS5jbG91ZC5pYm0uY29tL2lkZW50aXR5IiwiZ3JhbnRfdHlwZSI6InVybjppYm06cGFyYW1zOm9hdXRoOmdyYW50LXR5cGU6YXBpa2V5Iiwic2NvcGUiOiJpYm0gb3BlbmlkIiwiY2xpZW50X2lkIjoiZGVmYXVsdCIsImFjciI6MSwiYW1yIjpbInB3ZCJdfQ.TAaq3lg8rEndGxtmeqbzJIWiXmms33eAjzJuqUYbzjFAAy4VOXkRjc5PE9kRRVrUJA3ZVRJQ-l1jeCZg2tZUHPn1GpqLgE40W5DbGFnG5cZXKR2dq6EXlZolgzUDSGZDqlyjMWjPOhIdpUde9IsqUUySHTf0Pawlbx1_qlTL_xPT5j9hDUt7AnWYD1YeTTK3Y6W0raXG0U_8lUBWiQhZXRjjhJAfBd_I4j6frN9-W5n_360HRK8UA_HQHTSG3YyWKXglMOtfTnYMcfXffrAwN6N-CHQ8J-qRxXCQ31AzzdGBnj7W1Wu_bJBuM1noIybpvSvc7S2ftQnDZhJ5MVY0ow",
+  "mlInstanceId" : "ef6690c5-963d-417f-bc6c-0b134690ad8a"
+
+
+}

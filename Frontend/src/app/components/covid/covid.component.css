@@ -1,0 +1,30 @@
+.pag
+{
+  box-shadow: 2px 2px 5px #999;
+  width:1000px;
+  height: 900px;
+  margin:0px auto;
+  
+
+}
+
+.general
+{
+
+  width:500px;
+  height: 600px;
+  margin:0px auto;
+
+
+}
+
+#left {
+   float:left }
+#right { float:right }
+
+.boton{
+  margin-top: 35.9em;
+
+ 
+
+}

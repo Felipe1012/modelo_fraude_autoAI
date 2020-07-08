@@ -1,0 +1,15 @@
+{
+  "cos_original_bucket": "transmi",
+  "cos_normalized_bucket": "transmi",
+  "cos_endpoint": "s3.us-east.cloud-object-storage.appdomain.cloud",
+  "cos_api_key": "vomN8px8jHB836LYC7HaaqvSKP7dhpKPMaGYJwtnVJ8o",
+  "iam_apikey_description": "Auto-generated for key 4c7d5527-9318-4cb1-9853-6f176cd28602",
+  "iam_apikey_name": "transmi",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/d5d7b98d55e84ceabbc1b13a9d9d7b78::serviceid:ServiceId-7018a94d-b3a2-4769-b232-5383b7fe0244",
+  "cos_service_instance_id": "crn:v1:bluemix:public:cloud-object-storage:global:a/d5d7b98d55e84ceabbc1b13a9d9d7b78:72eecd50-bd61-4972-9171-6b9c0522e1ea::",
+  "access_key_id": "4c7d552793184cb198536f176cd28602",
+  "secret_access_key": "33da00060b0d88f474971b61feebe4213f56fab6f4aa5d43"
+}
+
+    
