@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { HttpClient, HttpResponse } from '@angular/common/http';
 import { FormBuilder, FormGroup } from '@angular/forms';
 import { discardPeriodicTasks } from '@angular/core/testing';
+import { ElementSchemaRegistry } from '@angular/compiler';
 
 
 
@@ -46,6 +47,9 @@ export class CovidComponent implements OnInit {
   }
   x="";
   respuesta = [];
+  fraude="";
+  probabilidad=""
+  probabilidad_number=0;
   PostAutoIA() {
 
     var a = this.texto.map(function (item) {
@@ -68,8 +72,27 @@ export class CovidComponent implements OnInit {
         this.textModelo = res
         this.respuesta.push(res)
         this.x =JSON.stringify(res.predictions[0].values)
+        console.log("respuesta "+this.x)
+
+
+        this.fraude =res.predictions[0].values[0][0]
+
+        if(this.fraude="1"){
+          this.fraude="Hay fraude"
+        }else{
+          this.fraude="No hay fraude<"
+        }
+        console.log(this.fraude)
         
-        console.log(res)
+
+
+        this.probabilidad = res.predictions[0].values[0][1][1]
+        this.probabilidad_number=parseFloat(this.probabilidad)*100
+        this.probabilidad=this.probabilidad_number.toFixed(2) + '%'
+          
+        console.log("probabilidad "+this.probabilidad_number)
+
+        
       },
       (err) => {
 
