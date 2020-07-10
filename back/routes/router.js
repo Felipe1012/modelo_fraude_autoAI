@@ -33,7 +33,7 @@ router.post("/upload-text", async function (req, res) {
 
   request.post(options, function (error, response, body) {
     var iam_token = JSON.parse(body)["access_token"];
-    console.log("iam_token")
+    console.log(iam_token)
     const hola = JSON.stringify(inputText)
     console.log(inputText);
     try {

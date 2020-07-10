@@ -80,7 +80,7 @@ export class CovidComponent implements OnInit {
         if(this.fraude="1"){
           this.fraude="Hay fraude"
         }else{
-          this.fraude="No hay fraude<"
+          this.fraude="No hay fraude"
         }
         console.log(this.fraude)
         
