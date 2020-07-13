@@ -77,7 +77,7 @@ export class CovidComponent implements OnInit {
 
         this.fraude =res.predictions[0].values[0][0]
 
-        if(this.fraude="1"){
+        if(this.fraude=="1"){
           this.fraude="Hay fraude"
         }else{
           this.fraude="No hay fraude"
